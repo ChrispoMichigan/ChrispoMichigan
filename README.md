@@ -13,7 +13,7 @@ Soy un apasionado del desarrollo de software y las nuevas tecnologías, con una 
 
 - 🔭 Actualmente, me encuentro trabajando en proyectos que fusionan tecnología y diseño.
 - 🌱 Siempre estoy aprendiendo y explorando nuevas herramientas y lenguajes.
-- 🤝 Abierto a colaborar y compartir conocimientos con la comunidad tecnológica.
+- 🤝 Abierto a colaborar y compartir conocimientos con la comunidad.
 
 ---
 
