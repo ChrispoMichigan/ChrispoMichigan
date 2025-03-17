@@ -1,3 +1,5 @@
+
+ChrispoMichigan
 # ¡Hola, soy Christian! 👋
 
 <div align="center">
@@ -17,6 +19,16 @@ Soy un apasionado del desarrollo de software y las nuevas tecnologías, con una 
 
 ---
 
+Si deseas conocer más sobre mi carrera y conectar profesionalmente, te invito a visitar mi perfil en LinkedIn:
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/christian-israel-castillo-jim%C3%A9nez-32b77a281/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
+  </a>
+</div>
+
+---
+
 ## Tecnologías y Herramientas
 
 <div align="center">
@@ -33,27 +45,13 @@ Soy un apasionado del desarrollo de software y las nuevas tecnologías, con una 
 
 ## Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrispoMichigan&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
----
-<div align="center">
-  
-### Lenguajes más usados
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrispoMichigan&layout=compact&theme=radical)
-
-</div>
-
----
-
-Si deseas conocer más sobre mi carrera y conectar profesionalmente, te invito a visitar mi perfil en LinkedIn:
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/christian-israel-castillo-jim%C3%A9nez-32b77a281/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
-  </a>
-</div>
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChrispoMichigan&show_icons=true&theme=gotham" alt="GitHub Stats" />
+</div >
+ 
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrispoMichigan&theme=gotham&langs_count=7" alt="GitHub Stats" />
+</div> 
 
 ---
 
