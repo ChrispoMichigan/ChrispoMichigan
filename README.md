@@ -1,15 +1,15 @@
-# ¡Hola, soy Christian Israel Castillo Jiménez! 👋
+# ¡Hola, soy Christian! 👋
 
 <div align="center">
   <h1>Bienvenido a mi perfil de GitHub</h1>
-  <p>Developer | Innovador | Resolutivo</p>
+  <p>Developer</p>
 </div>
 
 ---
 
 ## Sobre Mí
 
-Soy un apasionado del desarrollo de software y la innovación tecnológica, con una sólida experiencia en la creación de soluciones que combinan diseño y funcionalidad. Mi enfoque profesional se centra en construir proyectos de alta calidad, siempre en busca de nuevos desafíos y aprendizajes.
+Soy un apasionado del desarrollo de software y las nuevas tecnologías, con una creciente experiencia en la creación de soluciones que combinan diseño y funcionalidad. Mi enfoque profesional se centra en construir proyectos de alta calidad, siempre en busca de nuevos desafíos y aprendizajes.
 
 - 🔭 Actualmente, me encuentro trabajando en proyectos que fusionan tecnología y diseño.
 - 🌱 Siempre estoy aprendiendo y explorando nuevas herramientas y lenguajes.
@@ -50,7 +50,9 @@ Explora mis repositorios para ver más detalles y ejemplos de mi trabajo profesi
 
 ---
 
-## Conecta Conmigo
+### Lenguajes más usados
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrispoMichigan&layout=compact&theme=radical)
+
 
 Estoy siempre abierto a nuevas oportunidades y colaboraciones. Puedes contactarme a través de:
 
