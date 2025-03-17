@@ -1,8 +1,8 @@
 # ¡Hola, soy Christian! 👋
 
 <div align="center">
-  <h1>Bienvenido a mi perfil de GitHub</h1>
-  <p>Developer</p>
+  <h2>Bienvenido a mi perfil de GitHub</h2>
+  <p>Developer | Técnico </p>
 </div>
 
 ---
@@ -20,25 +20,14 @@ Soy un apasionado del desarrollo de software y las nuevas tecnologías, con una 
 ## Tecnologías y Herramientas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/LUA-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="LUA" />
 </div>
-
----
-
-## Proyectos Destacados
-
-Aquí encontrarás algunos ejemplos de los proyectos en los que he trabajado:
-
-- **Proyecto XYZ:** Una solución integral para [descripción breve del proyecto].
-- **Proyecto ABC:** Una aplicación web moderna desarrollada con [tecnologías utilizadas].
-- **Proyecto 123:** Un enfoque innovador para resolver [problema o necesidad].
-
-Explora mis repositorios para ver más detalles y ejemplos de mi trabajo profesional.
 
 ---
 
@@ -49,16 +38,23 @@ Explora mis repositorios para ver más detalles y ejemplos de mi trabajo profesi
 </div>
 
 ---
-
+<div align="center">
+  
 ### Lenguajes más usados
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrispoMichigan&layout=compact&theme=radical)
 
-
-Estoy siempre abierto a nuevas oportunidades y colaboraciones. Puedes contactarme a través de:
-
-- [LinkedIn](https://www.linkedin.com/in/christian-israel-castillo-jim%C3%A9nez-32b77a281/)
-- [Email](mailto:your.email@example.com)
+</div>
 
 ---
 
-¡Gracias por visitar mi perfil y espero que encuentres inspiración y colaboración en este espacio!
+Si deseas conocer más sobre mi carrera y conectar profesionalmente, te invito a visitar mi perfil en LinkedIn:
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/christian-israel-castillo-jim%C3%A9nez-32b77a281/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
+  </a>
+</div>
+
+---
+
+¡Gracias por visitar mi perfil!
