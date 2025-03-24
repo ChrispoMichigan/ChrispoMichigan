@@ -57,10 +57,6 @@ Si deseas conocer más sobre mi carrera y conectar profesionalmente, te invito a
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrispoMichigan&theme=gotham&langs_count=7" alt="GitHub Stats" />
 </div>
 
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrispoMichigan&theme=gotham&langs_count=7" alt="GitHub Stats" />
-</div> 
-
 ---
 
 ¡Gracias por visitar mi perfil!
