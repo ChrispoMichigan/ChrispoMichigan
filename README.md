@@ -43,6 +43,9 @@ Si deseas conocer más sobre mi carrera y conectar profesionalmente, te invito a
   <img src="https://img.shields.io/badge/ESP32-4B7EBB?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/AppScript-FFD500?style=for-the-badge&logo=google-apps-script&logoColor=white" alt="AppScript" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </div>
 
 ---
