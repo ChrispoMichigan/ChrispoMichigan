@@ -57,7 +57,7 @@ Si deseas conocer más sobre mi carrera y conectar profesionalmente, te invito a
 </div >
  
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrispoMichigan&theme=gotham&langs_count=5" alt="GitHub Stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrispoMichigan&theme=gotham&langs_count=4" alt="GitHub Stats" />
 </div>
 
 ---
