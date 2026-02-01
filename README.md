@@ -53,6 +53,10 @@ Si deseas conocer más sobre mi carrera y conectar profesionalmente, te invito a
 ## Estadísticas de GitHub
 
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ChrispoMichigan?cardType=level-alternate&theme=dracula&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+</div >
+
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ChrispoMichigan&show_icons=true&theme=gotham" alt="GitHub Stats" />
 </div >
  
